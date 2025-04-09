@@ -1,1 +1,2 @@
 # my-new-pro
+this is a project about git and github.
